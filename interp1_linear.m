@@ -4,15 +4,17 @@
 %
 %   yq = interp1_linear(x,y,xq)
 %
+% See also interp1, interp2, interp3, interpn.
+%
 % Copyright © 2021 Tamas Kis
-% Last Update: 2021-06-19
+% Contact: tamas.a.kis@outlook.com
+% Last Update: 2021-06-28
 %
 %--------------------------------------------------------------------------
 %
 % GitHub: https://github.com/tamaskis/interp1_linear
 %
-% See EXAMPLES.mlx for examples and "DOCUMENTATION.pdf" for additional 
-% documentation.
+% See EXAMPLES.mlx for examples.
 %
 %--------------------------------------------------------------------------
 %
