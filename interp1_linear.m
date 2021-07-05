@@ -8,7 +8,7 @@
 %
 % Copyright © 2021 Tamas Kis
 % Contact: tamas.a.kis@outlook.com
-% Last Update: 2021-06-28
+% Last Update: 2021-07-05
 %
 %--------------------------------------------------------------------------
 %
@@ -18,16 +18,16 @@
 %
 %--------------------------------------------------------------------------
 %
-% -------
-% INPUTS:
-% -------
+% ------
+% INPUT:
+% ------
 %   x       - (n×1 or 1×n) independent variable data
 %   y       - (n×1 or 1×n) dependent variable data
 %   xq      - (q×1 or 1×q) query points (i.e. where to interpolate)
 %
-% --------
-% OUTPUTS:
-% --------
+% -------
+% OUTPUT:
+% -------
 %   yq      - (q×1 or 1×q) interpolated values of y at the query points
 %
 % -----
