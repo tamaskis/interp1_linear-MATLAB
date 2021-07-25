@@ -6,15 +6,7 @@
 %
 % See also interp1, interp2, interp3, interpn.
 %
-% Copyright © 2021 Tamas Kis
-% Contact: tamas.a.kis@outlook.com
-% Last Update: 2021-07-05
-%
-%--------------------------------------------------------------------------
-%
-% GitHub: https://github.com/tamaskis/interp1_linear
-%
-% See EXAMPLES.mlx for examples.
+% Last Update: 2021-07-26
 %
 %--------------------------------------------------------------------------
 %
